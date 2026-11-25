@@ -17,3 +17,5 @@ api
 
 # IDE
 .vscode
+# built binary
+/jubilant-api

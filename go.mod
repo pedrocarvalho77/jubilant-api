@@ -1,4 +1,4 @@
-module github.com/reviewpad/jubilant-api
+module github.com/pedrocarvalho77/jubilant-api
 
 go 1.18
 
